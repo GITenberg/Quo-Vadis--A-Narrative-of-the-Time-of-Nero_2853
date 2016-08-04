@@ -1,0 +1,98 @@
+_repo: Quo-Vadis--A-Narrative-of-the-Time-of-Nero_2853
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Curtin, Jeremiah
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '1053'
+    url: http://www.gutenberg.org/2009/agents/1053
+creator:
+  author:
+    agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+description: "Quo Vadis: A Narrative of the Time of Nero, commonly known as Quo Vadis,\
+  \ is a historical novel written by Henryk Sienkiewicz in Polish. \"Quo vadis Domine\"\
+  \ is Latin for \"Where are you going, Lord?\" and alludes to the apocryphal Acts\
+  \ of Peter, in which Peter flees Rome but on his way meets Jesus and asks him why\
+  \ he is going to Rome. Jesus says, \"I am going back to be crucified again\", which\
+  \ makes Peter go back to Rome and accept martyrdom.\nThe novel Quo Vadis tells of\
+  \ a love that develops between a young Christian woman, Ligia (or Lygia), and Marcus\
+  \ Vinicius, a Roman patrician. It takes place in the city of Rome under the rule\
+  \ of emperor Nero, circa AD 64.\nSienkiewicz studied the Roman Empire extensively\
+  \ prior to writing the novel, with the aim of getting historical details correct.\
+  \ Consequently, several historical figures appear in the book. As a whole, the novel\
+  \ carries an outspoken pro-Christian message.\nPublished in installments in three\
+  \ Polish dailies in 1895, it came out in book form in 1896 and has since been translated\
+  \ into more than 50 languages. This novel contributed to Sienkiewicz's Nobel Prize\
+  \ for literature in 1905.\nSeveral movies have been based on Quo Vadis including\
+  \ two Italian silent films—Quo Vadis (1913 film) and Quo Vadis (1924 film)—a Hollywood\
+  \ production—Quo Vadis (1951 film)—and an adaptation by Jerzy Kawalerowicz: Quo\
+  \ Vadis (2001 film).\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Historical Fiction
+- Bestsellers, American, 1895-1923
+- Movie Books
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2853'
+  wikidata: Q335315
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Rome -- History -- Nero, 54-68 -- Fiction'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Christian fiction'
+- GITenberg
+title: 'Quo Vadis: A Narrative of the Time of Nero'
+url: http://www.gutenberg.org/ebooks/2853
+wikipedia:
+- https://fi.wikipedia.org/wiki/Quo_vadis_(romaani)
+- https://eo.wikipedia.org/wiki/Quo_vadis%3F
+- https://pl.wikisource.org/wiki/Quo_vadis
+- https://fa.wikipedia.org/wiki/%D9%87%D9%88%D8%B3%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1
+- https://bg.wikipedia.org/wiki/Quo_vadis_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://vi.wikipedia.org/wiki/Quo_Vadis_(ti%E1%BB%83u_thuy%E1%BA%BFt)
+- https://lt.wikipedia.org/wiki/Quo_vadis_(romanas)
+- https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%BE_%D0%B3%D1%80%D1%8F%D0%B4%D0%B5%D1%88%D0%B8_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://gl.wikipedia.org/wiki/Quo_Vadis%3F
+- https://fr.wikisource.org/wiki/Quo_vadis
+- https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A9%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%87%E3%82%A3%E3%82%B9
+- https://pt.wikipedia.org/wiki/Quo_Vadis_(livro)
+- https://hy.wikiquote.org/wiki/%D5%85%D5%B8%D5%9E_%D5%A5%D6%80%D5%A9%D5%A1%D5%BD
+- https://es.wikipedia.org/wiki/Quo_vadis%3F_(novela)
+- https://sk.wikipedia.org/wiki/Quo_vadis_(rom%C3%A1n)
+- https://en.wikipedia.org/wiki/Quo_Vadis_(novel)
+- https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%BE_%D0%B3%D1%80%D1%8F%D0%B4%D0%B5%D1%88%D0%B8_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://pl.wikiquote.org/wiki/Quo_vadis
+- https://ko.wikipedia.org/wiki/%EC%BF%A0%EC%98%A4_%EB%B0%94%EB%94%94%EC%8A%A4_(%EC%86%8C%EC%84%A4)
+- https://fr.wikipedia.org/wiki/Quo_vadis_%3F_(roman)
+- https://sh.wikipedia.org/wiki/Quo_vadis_(roman)
+- https://zh.wikipedia.org/wiki/%E4%BD%A0%E5%BE%80%E4%BD%95%E8%99%95%E5%8E%BB
+- https://ro.wikipedia.org/wiki/Quo_vadis_(roman)
+- https://pl.wikipedia.org/wiki/Quo_vadis
+- https://hu.wikipedia.org/wiki/Quo_vadis_(reg%C3%A9ny)
+- https://sv.wikipedia.org/wiki/Quo_vadis%3F_(roman)
+- https://sq.wikipedia.org/wiki/Quo_Vadis%3F_(roman)
+- https://da.wikipedia.org/wiki/Quo_vadis
+- https://mk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%BE_%D0%B2%D0%B0%D0%B4%D0%B8%D1%81_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%93%E1%83%A0%E1%83%94_%E1%83%B0%E1%83%AE%E1%83%95%E1%83%90%E1%83%9A%3F
+- https://ar.wikipedia.org/wiki/%D9%83%D9%88%D9%88_%D9%81%D8%A7%D8%AF%D9%8A%D8%B3_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://nl.wikipedia.org/wiki/Quo_Vadis_(roman)
+- https://cs.wikipedia.org/wiki/Quo_vadis
+- https://de.wikipedia.org/wiki/Quo_Vadis_(Roman)
+- https://sr.wikipedia.org/wiki/Quo_vadis%3F_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://hy.wikipedia.org/wiki/%D5%85%D5%B8%D5%9E_%D5%A5%D6%80%D5%A9%D5%A1%D5%BD_(%D5%BE%D5%A5%D5%BA)
+- https://it.wikipedia.org/wiki/Quo_vadis%3F_(romanzo)
+- https://no.wikipedia.org/wiki/Quo_vadis
+- https://ca.wikipedia.org/wiki/Quo_vadis%3F
+- https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%95_%D7%95%D7%90%D7%93%D7%99%D7%A1_(%D7%A8%D7%95%D7%9E%D7%9F)
